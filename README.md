@@ -21,7 +21,7 @@ or just by hooking up some buttons.
 
 ## TODO
 
- [] Rename occupancy sensor to button
- [] Add shared codebase for all Xiaomi switches (both the hardwired and the wireless ones)
- [] Re-enable sleep mode
- [] Make the second button work
+ - [ ] Rename occupancy sensor to button
+ - [ ] Add shared codebase for all Xiaomi switches (both the hardwired and the wireless ones)
+ - [ ] Re-enable sleep mode
+ - [ ] Make the second button work
