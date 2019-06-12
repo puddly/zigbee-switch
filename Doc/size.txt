@@ -1,0 +1,1077 @@
+Wed Mar 15 10:10:47 2017
+   text	   data	    bss	    dec	    hex	filename
+ 142798	   1500	  23009	 167307	  28d8b	../../LightSensor/Build/LightSensor_NtagIcode_JN5169_DR1175.elf
+Wed Mar 15 10:12:12 2017
+   text	   data	    bss	    dec	    hex	filename
+ 143870	   1596	  23521	 168987	  2941b	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_JN5169_DR1175.elf
+Wed Mar 15 10:13:31 2017
+   text	   data	    bss	    dec	    hex	filename
+ 141526	   1524	  22993	 166043	  2889b	../../OccupancySensor/Build/OccupancySensor_NtagIcode_JN5169_DR1199.elf
+Wed Mar 15 11:14:33 2017
+   text	   data	    bss	    dec	    hex	filename
+ 138160	   1900	  23005	 163065	  27cf9	../../OccupancySensor/Build/OccupancySensor_NtagIcode_JN5179_DR1199.elf
+Wed Mar 15 11:15:49 2017
+   text	   data	    bss	    dec	    hex	filename
+ 139328	   1896	  23025	 164249	  28199	../../LightSensor/Build/LightSensor_NtagIcode_JN5179_DR1175.elf
+Wed Mar 15 11:17:04 2017
+   text	   data	    bss	    dec	    hex	filename
+ 140316	   1992	  23529	 165837	  287cd	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_JN5179_DR1175.elf
+Tue Jun  5 16:57:51 2018
+   text	   data	    bss	    dec	    hex	filename
+ 147796	   2000	  23289	 173085	  2a41d	../../LightSensor/Build/LightSensor_NtagIcode_JN5179_DR1175.elf
+Thu Jun  7 15:05:27 2018
+   text	   data	    bss	    dec	    hex	filename
+ 160528	   2132	  23993	 186653	  2d91d	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun  7 15:49:13 2018
+   text	   data	    bss	    dec	    hex	filename
+ 160528	   2132	  23993	 186653	  2d91d	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun  7 16:48:31 2018
+   text	   data	    bss	    dec	    hex	filename
+ 160528	   2132	  23993	 186653	  2d91d	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jun  8 11:23:17 2018
+   text	   data	    bss	    dec	    hex	filename
+ 160528	   2132	  23993	 186653	  2d91d	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jun  8 14:05:54 2018
+   text	   data	    bss	    dec	    hex	filename
+ 160528	   2132	  23993	 186653	  2d91d	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jun  8 15:53:28 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168188	   2132	  23993	 194313	  2f709	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Jun 11 10:07:24 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168196	   2132	  23993	 194321	  2f711	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Jun 11 12:12:44 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168192	   2132	  23993	 194317	  2f70d	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Jun 11 14:13:41 2018
+   text	   data	    bss	    dec	    hex	filename
+ 150264	   2000	  23289	 175553	  2adc1	../../LightSensor/Build/LightSensor_NtagIcode_JN5179_DR1175.elf
+Mon Jun 11 14:33:39 2018
+   text	   data	    bss	    dec	    hex	filename
+ 150268	   2004	  23289	 175561	  2adc9	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Jun 11 14:52:48 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168196	   2132	  23993	 194321	  2f711	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Jun 11 16:43:17 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168080	   2132	  23993	 194205	  2f69d	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Jun 11 16:57:55 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168036	   2132	  23993	 194161	  2f671	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Jun 11 18:04:42 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167796	   2116	  23993	 193905	  2f571	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Jun 13 14:47:24 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167796	   2116	  23993	 193905	  2f571	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Jun 13 17:00:57 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167796	   2116	  23993	 193905	  2f571	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Jun 13 18:05:49 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168036	   2132	  23993	 194161	  2f671	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 14 10:22:02 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167936	   2116	  23993	 194045	  2f5fd	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 14 11:13:16 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168080	   2116	  23993	 194189	  2f68d	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 14 11:24:51 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168180	   2116	  23993	 194289	  2f6f1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 14 14:37:10 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168276	   2116	  23993	 194385	  2f751	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 14 14:52:24 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168440	   2116	  23993	 194549	  2f7f5	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 14 15:04:55 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168276	   2116	  23993	 194385	  2f751	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 14 15:11:45 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168276	   2116	  23993	 194385	  2f751	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 14 15:16:33 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168436	   2116	  23993	 194545	  2f7f1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 14 15:51:15 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168436	   2116	  23993	 194545	  2f7f1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 14 16:02:45 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168436	   2116	  23993	 194545	  2f7f1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 14 16:23:36 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167936	   2116	  23993	 194045	  2f5fd	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 14 17:16:32 2018
+   text	   data	    bss	    dec	    hex	filename
+ 164548	   2124	  23953	 190625	  2e8a1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Jun 15 09:38:23 2018
+   text	   data	    bss	    dec	    hex	filename
+ 165544	   2124	  23953	 191621	  2ec85	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Jun 15 09:59:57 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167988	   2212	  24497	 194697	  2f889	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jun 15 11:34:02 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167936	   2116	  23993	 194045	  2f5fd	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Jun 25 12:30:41 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167936	   2116	  23993	 194045	  2f5fd	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Jun 25 13:52:17 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167936	   2116	  23993	 194045	  2f5fd	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Jun 25 14:24:05 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167936	   2116	  23993	 194045	  2f5fd	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Jun 25 14:50:26 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167936	   2116	  23993	 194045	  2f5fd	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Jun 25 15:27:13 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168000	   2116	  23993	 194109	  2f63d	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Jun 25 16:29:12 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168116	   2116	  23993	 194225	  2f6b1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Jun 25 16:51:14 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169700	   2116	  23993	 195809	  2fce1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Jun 25 17:19:20 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169704	   2116	  23993	 195813	  2fce5	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Tue Jun 26 09:33:50 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169704	   2116	  23993	 195813	  2fce5	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Tue Jun 26 10:06:42 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169700	   2116	  23993	 195809	  2fce1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Tue Jun 26 10:19:16 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169664	   2116	  23993	 195773	  2fcbd	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Tue Jun 26 11:13:51 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169664	   2116	  23993	 195773	  2fcbd	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Jun 27 14:35:28 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169772	   2132	  24001	 195905	  2fd41	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Jun 27 15:31:09 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168336	   2228	  24505	 195069	  2f9fd	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Jun 27 16:23:09 2018
+   text	   data	    bss	    dec	    hex	filename
+ 165892	   2140	  23969	 192001	  2ee01	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Jun 27 16:40:09 2018
+   text	   data	    bss	    dec	    hex	filename
+ 165892	   2140	  23969	 192001	  2ee01	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Jun 27 18:26:43 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169772	   2132	  24001	 195905	  2fd41	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 28 14:08:29 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169772	   2132	  24001	 195905	  2fd41	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 28 14:31:51 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169776	   2132	  24001	 195909	  2fd45	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 28 15:22:09 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169860	   2132	  24001	 195993	  2fd99	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 28 15:28:08 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169772	   2132	  24001	 195905	  2fd41	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 28 15:37:04 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169896	   2132	  24001	 196029	  2fdbd	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 28 17:47:10 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169896	   2132	  24001	 196029	  2fdbd	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 28 17:52:23 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169916	   2132	  24001	 196049	  2fdd1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jun 28 18:06:53 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169880	   2132	  24001	 196013	  2fdad	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jun 29 09:30:01 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169880	   2132	  24001	 196013	  2fdad	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jun 29 10:41:38 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169876	   2132	  24001	 196009	  2fda9	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jun 29 10:51:28 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169888	   2132	  24001	 196021	  2fdb5	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jun 29 11:30:36 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169956	   2132	  24001	 196089	  2fdf9	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jun 29 11:49:54 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169964	   2132	  24001	 196097	  2fe01	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jun 29 14:47:28 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169956	   2132	  24001	 196089	  2fdf9	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jun 29 15:47:14 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169688	   2132	  24001	 195821	  2fced	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jun 29 16:45:02 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169668	   2132	  24001	 195801	  2fcd9	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jun 29 16:53:59 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169688	   2132	  24001	 195821	  2fced	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jun 29 17:02:26 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169692	   2132	  24001	 195825	  2fcf1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jun 29 17:37:08 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169772	   2132	  24001	 195905	  2fd41	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jun 29 17:39:31 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169944	   2132	  24001	 196077	  2fded	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jun 29 17:42:12 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169944	   2132	  24001	 196077	  2fded	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Jul  2 16:42:11 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169944	   2132	  24001	 196077	  2fded	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Tue Jul  3 10:14:16 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168500	   2228	  24505	 195233	  2faa1	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Tue Jul  3 10:31:07 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166000	   2140	  23969	 192109	  2ee6d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Tue Jul  3 10:57:42 2018
+   text	   data	    bss	    dec	    hex	filename
+ 147600	   2004	  23253	 172857	  2a339	../../OccupancySensor/Build/OccupancySensor_NtagIcode_JN5179_DR1199.elf
+Wed Jul  4 16:39:29 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169988	   2132	  24001	 196121	  2fe19	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Jul  4 17:04:49 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170272	   2132	  24001	 196405	  2ff35	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Jul  4 17:51:07 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170304	   2132	  24001	 196437	  2ff55	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Jul  4 17:59:14 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170304	   2132	  24001	 196437	  2ff55	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Tue Jul 10 11:14:36 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170308	   2132	  24025	 196465	  2ff71	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Tue Jul 10 14:44:45 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170308	   2132	  24025	 196465	  2ff71	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Jul 11 14:03:00 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170308	   2132	  24025	 196465	  2ff71	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Jul 11 14:32:20 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170308	   2132	  24025	 196465	  2ff71	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Jul 11 15:38:44 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170308	   2132	  24025	 196465	  2ff71	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Jul 11 16:20:17 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168548	   2228	  24529	 195305	  2fae9	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Jul 11 17:20:15 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170308	   2132	  24025	 196465	  2ff71	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Jul 11 17:29:53 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168548	   2228	  24529	 195305	  2fae9	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Jul 11 18:06:04 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166048	   2140	  23993	 192181	  2eeb5	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Jul 12 11:09:58 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170384	   2132	  24025	 196541	  2ffbd	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jul 12 11:41:57 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170428	   2132	  24025	 196585	  2ffe9	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jul 12 15:10:41 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168592	   2228	  24529	 195349	  2fb15	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jul 12 15:14:47 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166092	   2140	  23993	 192225	  2eee1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Jul 12 15:49:25 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166092	   2140	  23993	 192225	  2eee1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Jul 12 16:09:22 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166092	   2140	  23993	 192225	  2eee1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Jul 12 16:33:38 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168592	   2228	  24529	 195349	  2fb15	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jul 12 16:43:10 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168592	   2228	  24529	 195349	  2fb15	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jul 12 17:40:08 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168592	   2228	  24529	 195349	  2fb15	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jul 12 17:46:11 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168592	   2228	  24529	 195349	  2fb15	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Jul 12 18:35:53 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168592	   2228	  24529	 195349	  2fb15	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jul 13 09:21:37 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168632	   2228	  24529	 195389	  2fb3d	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jul 13 09:32:26 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168592	   2228	  24529	 195349	  2fb15	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jul 13 10:18:02 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168444	   2228	  24529	 195201	  2fa81	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jul 13 10:33:39 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168892	   2228	  24529	 195649	  2fc41	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jul 13 10:40:02 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168380	   2228	  24529	 195137	  2fa41	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jul 13 10:54:02 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168428	   2228	  24529	 195185	  2fa71	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jul 13 10:56:36 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168428	   2228	  24529	 195185	  2fa71	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jul 13 11:16:46 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170232	   2132	  24025	 196389	  2ff25	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jul 13 11:38:10 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170320	   2132	  24025	 196477	  2ff7d	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jul 13 13:43:50 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170292	   2132	  24025	 196449	  2ff61	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jul 13 14:06:54 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168364	   2228	  24529	 195121	  2fa31	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Jul 13 15:22:14 2018
+   text	   data	    bss	    dec	    hex	filename
+ 165816	   2140	  23985	 191941	  2edc5	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Jul 13 15:53:22 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167912	   2140	  23985	 194037	  2f5f5	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Jul 13 16:08:34 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167904	   2140	  23985	 194029	  2f5ed	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Jul 13 16:41:37 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167776	   2140	  23985	 193901	  2f56d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Jul 16 09:44:21 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167852	   2140	  23985	 193977	  2f5b9	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Jul 16 11:15:31 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168316	   2228	  24529	 195073	  2fa01	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Jul 16 13:50:14 2018
+   text	   data	    bss	    dec	    hex	filename
+ 150272	   2000	  23289	 175561	  2adc9	../../LightSensor/Build/LightSensor_NtagIcode_JN5179_DR1175.elf
+Mon Jul 16 14:40:08 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167808	   2140	  23985	 193933	  2f58d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Jul 16 16:21:48 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167824	   2140	  24001	 193965	  2f5ad	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Jul 16 16:31:50 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167828	   2140	  24001	 193969	  2f5b1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Jul 16 16:43:55 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167828	   2140	  24001	 193969	  2f5b1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Jul 16 17:28:31 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167836	   2140	  24001	 193977	  2f5b9	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Jul 16 18:08:14 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167836	   2140	  24001	 193977	  2f5b9	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  2 15:50:49 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170548	   2132	  24025	 196705	  30061	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Aug  2 16:12:23 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170684	   2132	  24025	 196841	  300e9	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Aug  2 16:45:55 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170712	   2132	  24025	 196869	  30105	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Aug  2 16:56:46 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170716	   2132	  24025	 196873	  30109	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Aug  2 18:40:00 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167784	   2140	  24001	 193925	  2f585	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug  3 08:42:43 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170648	   2132	  24025	 196805	  300c5	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Aug  3 10:49:22 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170620	   2132	  24025	 196777	  300a9	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Aug  3 11:05:47 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170960	   2132	  24025	 197117	  301fd	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Aug  3 11:13:51 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170988	   2132	  24025	 197145	  30219	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Aug  3 11:23:56 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170640	   2132	  24025	 196797	  300bd	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Aug  3 11:34:34 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170672	   2132	  24025	 196829	  300dd	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Aug  3 11:48:59 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168404	   2228	  24529	 195161	  2fa59	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Aug  3 15:28:14 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170660	   2132	  24025	 196817	  300d1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Aug  3 16:06:13 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170660	   2132	  24025	 196817	  300d1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Aug  3 16:10:36 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170672	   2132	  24025	 196829	  300dd	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Aug  6 09:53:18 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170676	   2132	  24025	 196833	  300e1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Aug  6 10:36:27 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167760	   2140	  24001	 193901	  2f56d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Aug  6 10:49:55 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167772	   2140	  24001	 193913	  2f579	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Aug  6 11:11:43 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167760	   2140	  24001	 193901	  2f56d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Aug  6 11:41:48 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167772	   2140	  24001	 193913	  2f579	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Aug  6 12:29:26 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167768	   2140	  24001	 193909	  2f575	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Aug  6 17:44:45 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167768	   2140	  24001	 193909	  2f575	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Aug  6 18:31:23 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167784	   2140	  24001	 193925	  2f585	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Aug  6 18:40:58 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167768	   2140	  24001	 193909	  2f575	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Tue Aug  7 10:06:44 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167768	   2140	  24001	 193909	  2f575	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Tue Aug  7 10:19:54 2018
+   text	   data	    bss	    dec	    hex	filename
+ 149492	   2004	  23269	 174765	  2aaad	../../OccupancySensor/Build/OccupancySensor_NtagIcode_JN5179_DR1199.elf
+Tue Aug  7 10:41:58 2018
+   text	   data	    bss	    dec	    hex	filename
+ 165884	   2124	  23977	 191985	  2edf1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Tue Aug  7 11:57:18 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173188	   2140	  24001	 199329	  30aa1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Tue Aug  7 12:43:41 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173188	   2140	  24001	 199329	  30aa1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Tue Aug  7 13:21:36 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173212	   2140	  24001	 199353	  30ab9	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Tue Aug  7 15:43:07 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173188	   2140	  24001	 199329	  30aa1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Tue Aug  7 16:04:48 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173204	   2140	  24001	 199345	  30ab1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Tue Aug  7 16:22:41 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173200	   2140	  24001	 199341	  30aad	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug  8 09:27:40 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173216	   2140	  24001	 199357	  30abd	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug  8 09:44:34 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173476	   2140	  24001	 199617	  30bc1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug  8 09:56:48 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173460	   2140	  24001	 199601	  30bb1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug  8 11:56:16 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173188	   2140	  24001	 199329	  30aa1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug  8 14:18:09 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173188	   2140	  24001	 199329	  30aa1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug  8 16:52:48 2018
+   text	   data	    bss	    dec	    hex	filename
+ 177532	   2140	  24001	 203673	  31b99	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug  8 17:24:36 2018
+   text	   data	    bss	    dec	    hex	filename
+ 177436	   2140	  24001	 203577	  31b39	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug  8 18:47:47 2018
+   text	   data	    bss	    dec	    hex	filename
+ 146616	   2004	  23253	 171873	  29f61	../../OccupancySensor/Build/OccupancySensor_NtagIcode_JN5179_DR1199.elf
+Thu Aug  9 06:38:41 2018
+   text	   data	    bss	    dec	    hex	filename
+ 146640	   2004	  23253	 171897	  29f79	../../OccupancySensor/Build/OccupancySensor_NtagIcode_JN5179_DR1199.elf
+Thu Aug  9 08:36:21 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168320	   2140	  24009	 194469	  2f7a5	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 08:43:51 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168340	   2140	  24025	 194505	  2f7c9	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 08:56:02 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168328	   2140	  24025	 194493	  2f7bd	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 09:15:37 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168344	   2140	  24025	 194509	  2f7cd	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 09:26:42 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168344	   2140	  24025	 194509	  2f7cd	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 10:36:38 2018
+   text	   data	    bss	    dec	    hex	filename
+ 177840	   2140	  24025	 204005	  31ce5	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 10:49:01 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178008	   2140	  24025	 204173	  31d8d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 10:56:47 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178072	   2140	  24025	 204237	  31dcd	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 11:16:43 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178068	   2140	  24025	 204233	  31dc9	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 11:26:33 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178068	   2140	  24025	 204233	  31dc9	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 11:34:30 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178068	   2140	  24025	 204233	  31dc9	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 11:44:46 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178072	   2140	  24025	 204237	  31dcd	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 11:54:56 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178072	   2140	  24025	 204237	  31dcd	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 14:19:59 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178284	   2140	  24025	 204449	  31ea1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 16:10:13 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178312	   2140	  24057	 204509	  31edd	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 16:20:29 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178360	   2140	  24057	 204557	  31f0d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 16:49:09 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178420	   2140	  24057	 204617	  31f49	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 17:34:20 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178020	   2140	  24057	 204217	  31db9	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 22:58:14 2018
+   text	   data	    bss	    dec	    hex	filename
+ 177772	   2140	  24049	 203961	  31cb9	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 23:19:12 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178324	   2140	  24057	 204521	  31ee9	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug  9 23:39:50 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178216	   2140	  24057	 204413	  31e7d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 10 00:10:15 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178156	   2140	  24057	 204353	  31e41	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 10 04:34:55 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178204	   2140	  24057	 204401	  31e71	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 10 04:54:47 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178216	   2140	  24057	 204413	  31e7d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 10 05:15:58 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178340	   2140	  24057	 204537	  31ef9	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 10 05:56:04 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178328	   2140	  24049	 204517	  31ee5	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 10 08:10:23 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178328	   2140	  24049	 204517	  31ee5	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 10 08:24:18 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170984	   2132	  24025	 197141	  30215	../../LightSensor/Build/LightSensor_NtagIcode_OtaEnc_JN5179_DR1175.elf
+Fri Aug 10 08:38:51 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178288	   2140	  24017	 204445	  31e9d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 10 09:18:29 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168764	   2228	  24529	 195521	  2fbc1	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_OtaEnc_JN5179_DR1175.elf
+Fri Aug 10 09:29:16 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170984	   2132	  24025	 197141	  30215	../../LightSensor/Build/LightSensor_NtagIcode_OtaEnc_JN5179_DR1175.elf
+Fri Aug 10 09:37:59 2018
+   text	   data	    bss	    dec	    hex	filename
+ 178144	   2140	  24017	 204301	  31e0d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 10 09:40:10 2018
+   text	   data	    bss	    dec	    hex	filename
+ 170984	   2132	  24025	 197141	  30215	../../LightSensor/Build/LightSensor_NtagIcode_OtaEnc_JN5179_DR1175.elf
+Fri Aug 10 09:52:30 2018
+   text	   data	    bss	    dec	    hex	filename
+ 155064	   2004	  23285	 180353	  2c081	../../OccupancySensor/Build/OccupancySensor_NtagIcode_JN5179_DR1199.elf
+Fri Aug 10 11:27:11 2018
+   text	   data	    bss	    dec	    hex	filename
+ 177352	   2140	  24017	 203509	  31af5	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 10 11:54:08 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168764	   2228	  24529	 195521	  2fbc1	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_OtaEnc_JN5179_DR1175.elf
+Fri Aug 10 12:56:27 2018
+   text	   data	    bss	    dec	    hex	filename
+ 177424	   2140	  24017	 203581	  31b3d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 10 13:56:23 2018
+   text	   data	    bss	    dec	    hex	filename
+ 177424	   2140	  24017	 203581	  31b3d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 10 14:52:49 2018
+   text	   data	    bss	    dec	    hex	filename
+ 177424	   2140	  24017	 203581	  31b3d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 10 15:39:31 2018
+   text	   data	    bss	    dec	    hex	filename
+ 177428	   2140	  24017	 203585	  31b41	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 10 16:10:19 2018
+   text	   data	    bss	    dec	    hex	filename
+ 177428	   2140	  24017	 203585	  31b41	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 10 17:03:42 2018
+   text	   data	    bss	    dec	    hex	filename
+ 177416	   2140	  24017	 203573	  31b35	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 10 17:13:49 2018
+   text	   data	    bss	    dec	    hex	filename
+ 177440	   2140	  24017	 203597	  31b4d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 23 16:57:09 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173492	   2132	  24025	 199649	  30be1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Aug 23 17:47:38 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173428	   2132	  24025	 199585	  30ba1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Aug 23 17:52:32 2018
+   text	   data	    bss	    dec	    hex	filename
+ 176984	   2140	  24017	 203141	  31985	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 23 18:08:20 2018
+   text	   data	    bss	    dec	    hex	filename
+ 176964	   2140	  24017	 203121	  31971	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 24 10:36:50 2018
+   text	   data	    bss	    dec	    hex	filename
+ 177040	   2140	  24017	 203197	  319bd	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 24 10:58:44 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173436	   2132	  24025	 199593	  30ba9	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Aug 24 11:21:55 2018
+   text	   data	    bss	    dec	    hex	filename
+ 165568	   2140	  24017	 191725	  2eced	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 24 12:04:32 2018
+   text	   data	    bss	    dec	    hex	filename
+ 165540	   2140	  24017	 191697	  2ecd1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 24 12:23:19 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167084	   2132	  24025	 193241	  2f2d9	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Aug 24 14:16:52 2018
+   text	   data	    bss	    dec	    hex	filename
+ 165540	   2140	  24017	 191697	  2ecd1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 24 14:30:06 2018
+   text	   data	    bss	    dec	    hex	filename
+ 165532	   2140	  24017	 191689	  2ecc9	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 24 14:55:55 2018
+   text	   data	    bss	    dec	    hex	filename
+ 165628	   2140	  24017	 191785	  2ed29	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 24 16:21:09 2018
+   text	   data	    bss	    dec	    hex	filename
+ 165628	   2140	  24017	 191785	  2ed29	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 24 16:43:54 2018
+   text	   data	    bss	    dec	    hex	filename
+ 165616	   2140	  24017	 191773	  2ed1d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 24 17:54:03 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166360	   2140	  24017	 192517	  2f005	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Aug 27 10:17:21 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167096	   2132	  24025	 193253	  2f2e5	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Aug 27 11:02:03 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166444	   2140	  24017	 192601	  2f059	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Aug 27 11:12:52 2018
+   text	   data	    bss	    dec	    hex	filename
+ 167096	   2132	  24025	 193253	  2f2e5	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Aug 27 11:19:02 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173484	   2132	  24025	 199641	  30bd9	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Aug 27 11:55:59 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166448	   2140	  24017	 192605	  2f05d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Aug 27 13:21:50 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166396	   2140	  24017	 192553	  2f029	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Aug 27 13:54:09 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166396	   2140	  24017	 192553	  2f029	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Mon Aug 27 17:23:29 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173536	   2132	  24025	 199693	  30c0d	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Aug 27 17:27:21 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173564	   2132	  24025	 199721	  30c29	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Mon Aug 27 18:01:06 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173764	   2132	  24025	 199921	  30cf1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Aug 29 08:32:52 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173764	   2132	  24025	 199921	  30cf1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Aug 29 08:50:11 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166396	   2140	  24017	 192553	  2f029	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug 29 09:19:41 2018
+   text	   data	    bss	    dec	    hex	filename
+ 168624	   2228	  24529	 195381	  2fb35	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_OtaEnc_JN5179_DR1175.elf
+Wed Aug 29 09:30:49 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166404	   2140	  24017	 192561	  2f031	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug 29 09:44:25 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166404	   2140	  24017	 192561	  2f031	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug 29 11:19:42 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166408	   2140	  24017	 192565	  2f035	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug 29 13:36:52 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166376	   2140	  24017	 192533	  2f015	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug 29 14:01:11 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166432	   2140	  24017	 192589	  2f04d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug 29 14:57:01 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166392	   2140	  24017	 192549	  2f025	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug 29 15:05:35 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166432	   2140	  24017	 192589	  2f04d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug 29 15:19:58 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166448	   2140	  24017	 192605	  2f05d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug 29 15:39:08 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166336	   2140	  24017	 192493	  2efed	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug 29 16:22:11 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166296	   2140	  24017	 192453	  2efc5	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug 29 16:43:04 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166336	   2140	  24017	 192493	  2efed	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug 29 16:59:29 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166344	   2140	  24017	 192501	  2eff5	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug 29 17:28:26 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166372	   2140	  24017	 192529	  2f011	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug 29 17:41:47 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166372	   2140	  24017	 192529	  2f011	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Aug 29 17:49:00 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166292	   2140	  24017	 192449	  2efc1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 08:06:34 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166308	   2140	  24017	 192465	  2efd1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 08:28:13 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166292	   2140	  24017	 192449	  2efc1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 08:37:24 2018
+   text	   data	    bss	    dec	    hex	filename
+ 174212	   2132	  24241	 200585	  30f89	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Aug 30 08:56:34 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166388	   2140	  24017	 192545	  2f021	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 09:14:15 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166496	   2140	  24017	 192653	  2f08d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 09:31:20 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166516	   2140	  24017	 192673	  2f0a1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 09:54:27 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166496	   2140	  24017	 192653	  2f08d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 10:03:24 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166496	   2140	  24017	 192653	  2f08d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 10:11:19 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166432	   2140	  24017	 192589	  2f04d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 10:20:03 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166432	   2140	  24017	 192589	  2f04d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 10:37:49 2018
+   text	   data	    bss	    dec	    hex	filename
+ 151176	   2128	  24213	 177517	  2b56d	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Aug 30 10:48:47 2018
+   text	   data	    bss	    dec	    hex	filename
+ 150728	   2128	  23997	 176853	  2b2d5	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Aug 30 11:13:39 2018
+   text	   data	    bss	    dec	    hex	filename
+ 176916	   2132	  24249	 203297	  31a21	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Aug 30 11:30:44 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173156	   2116	  23889	 199161	  309f9	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Aug 30 13:19:34 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173156	   2116	  23889	 199161	  309f9	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Aug 30 13:28:21 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173764	   2132	  24025	 199921	  30cf1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Aug 30 13:55:42 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166488	   2140	  24017	 192645	  2f085	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 14:31:15 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173752	   2132	  24025	 199909	  30ce5	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Aug 30 14:34:18 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166376	   2140	  24017	 192533	  2f015	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 15:02:12 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166488	   2140	  24017	 192645	  2f085	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 15:14:01 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173764	   2132	  24025	 199921	  30cf1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Aug 30 15:16:50 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166484	   2140	  24017	 192641	  2f081	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 15:26:36 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166488	   2140	  24017	 192645	  2f085	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 15:55:10 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166412	   2140	  24017	 192569	  2f039	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 16:05:47 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166444	   2140	  24017	 192601	  2f059	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 16:13:30 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166408	   2140	  24017	 192565	  2f035	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 16:33:45 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166364	   2140	  24017	 192521	  2f009	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 16:52:59 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166412	   2140	  24017	 192569	  2f039	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 17:14:53 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166340	   2140	  24017	 192497	  2eff1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 17:39:22 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173764	   2132	  24025	 199921	  30cf1	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Aug 30 17:51:00 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166348	   2140	  24017	 192505	  2eff9	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Aug 30 18:00:07 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173364	   2140	  24017	 199521	  30b61	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 31 08:38:59 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173428	   2140	  24017	 199585	  30ba1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 31 08:48:16 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173452	   2140	  24017	 199609	  30bb9	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 31 09:13:32 2018
+   text	   data	    bss	    dec	    hex	filename
+ 174284	   2228	  24529	 201041	  31151	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Aug 31 09:23:24 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173772	   2132	  24025	 199929	  30cf9	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Aug 31 09:32:39 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173508	   2140	  24017	 199665	  30bf1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 31 09:43:35 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173524	   2140	  24017	 199681	  30c01	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 31 10:00:31 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173456	   2140	  24017	 199613	  30bbd	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 31 10:20:50 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173440	   2140	  24017	 199597	  30bad	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 31 10:28:13 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173468	   2140	  24017	 199625	  30bc9	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 31 10:31:15 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173484	   2140	  24017	 199641	  30bd9	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 31 10:40:42 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173532	   2140	  24017	 199689	  30c09	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 31 10:50:09 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173620	   2132	  24025	 199777	  30c61	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Fri Aug 31 11:03:10 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173504	   2140	  24017	 199661	  30bed	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Aug 31 11:08:42 2018
+   text	   data	    bss	    dec	    hex	filename
+ 165984	   2228	  24529	 192741	  2f0e5	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Wed Sep 12 14:45:44 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173556	   2140	  24017	 199713	  30c21	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Sep 12 14:57:28 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173600	   2140	  24017	 199757	  30c4d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Sep 12 16:34:44 2018
+   text	   data	    bss	    dec	    hex	filename
+ 158836	   2140	  24017	 184993	  2d2a1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Sep 12 17:04:22 2018
+   text	   data	    bss	    dec	    hex	filename
+ 158836	   2140	  24017	 184993	  2d2a1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Wed Sep 12 17:21:52 2018
+   text	   data	    bss	    dec	    hex	filename
+ 158788	   2140	  24017	 184945	  2d271	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Sep 13 08:31:49 2018
+   text	   data	    bss	    dec	    hex	filename
+ 158788	   2140	  24017	 184945	  2d271	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Sep 13 08:41:27 2018
+   text	   data	    bss	    dec	    hex	filename
+ 158788	   2140	  24017	 184945	  2d271	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Sep 13 08:46:52 2018
+   text	   data	    bss	    dec	    hex	filename
+ 173740	   2132	  24025	 199897	  30cd9	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Sep 13 09:19:30 2018
+   text	   data	    bss	    dec	    hex	filename
+ 166028	   2228	  24529	 192785	  2f111	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Sep 13 10:49:43 2018
+   text	   data	    bss	    dec	    hex	filename
+ 157668	   2140	  24017	 183825	  2ce11	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Sep 13 11:42:03 2018
+   text	   data	    bss	    dec	    hex	filename
+ 159564	   2140	  24017	 185721	  2d579	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Sep 13 12:12:37 2018
+   text	   data	    bss	    dec	    hex	filename
+ 160264	   2140	  24017	 186421	  2d835	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Sep 13 15:43:55 2018
+   text	   data	    bss	    dec	    hex	filename
+ 160164	   2140	  24017	 186321	  2d7d1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Sep 13 16:14:15 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169280	   2140	  24017	 195437	  2fb6d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Sep 13 17:35:40 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169280	   2140	  24017	 195437	  2fb6d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Sep 13 17:48:58 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169288	   2140	  24017	 195445	  2fb75	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Sep 13 18:07:24 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169288	   2140	  24017	 195445	  2fb75	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Sep 14 08:30:29 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169288	   2140	  24017	 195445	  2fb75	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Sep 14 08:57:18 2018
+   text	   data	    bss	    dec	    hex	filename
+ 154144	   2000	  23289	 179433	  2bce9	../../LightSensor/Build/LightSensor_NtagIcode_JN5179_DR1175.elf
+Fri Sep 14 09:03:01 2018
+   text	   data	    bss	    dec	    hex	filename
+ 169288	   2140	  24017	 195445	  2fb75	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Fri Sep 14 09:10:13 2018
+   text	   data	    bss	    dec	    hex	filename
+ 151108	   2004	  23285	 176397	  2b10d	../../OccupancySensor/Build/OccupancySensor_NtagIcode_JN5179_DR1199.elf
+Fri Sep 14 09:15:01 2018
+   text	   data	    bss	    dec	    hex	filename
+ 148140	   2096	  23793	 174029	  2a7cd	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_JN5179_DR1175.elf
+Thu Sep 20 15:25:04 2018
+   text	   data	    bss	    dec	    hex	filename
+ 154684	   2008	  23289	 179981	  2bf0d	../../LightSensor/Build/LightSensor_NtagIcode_JN5179_DR1175.elf
+Thu Sep 20 15:28:44 2018
+   text	   data	    bss	    dec	    hex	filename
+ 150072	   2104	  23793	 175969	  2af61	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_JN5179_DR1175.elf
+Thu Sep 20 15:33:00 2018
+   text	   data	    bss	    dec	    hex	filename
+ 151648	   2012	  23301	 176961	  2b341	../../OccupancySensor/Build/OccupancySensor_NtagIcode_JN5179_DR1199.elf
+Thu Sep 20 15:42:57 2018
+   text	   data	    bss	    dec	    hex	filename
+ 159110	   1616	  23285	 184011	  2cecb	../../LightSensor/Build/LightSensor_NtagIcode_JN5169_DR1175.elf
+Thu Sep 20 15:57:45 2018
+   text	   data	    bss	    dec	    hex	filename
+ 153562	   1712	  23797	 179071	  2bb7f	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_JN5169_DR1175.elf
+Thu Sep 20 16:03:41 2018
+   text	   data	    bss	    dec	    hex	filename
+ 155018	   1640	  23277	 179935	  2bedf	../../OccupancySensor/Build/OccupancySensor_NtagIcode_JN5169_DR1199.elf
+Thu Sep 20 16:12:07 2018
+   text	   data	    bss	    dec	    hex	filename
+ 151794	   1616	  23285	 176695	  2b237	../../LightSensor/Build/LightSensor_NtagIcode_JN5169_DR1175.elf
+Thu Sep 20 16:18:41 2018
+   text	   data	    bss	    dec	    hex	filename
+ 153562	   1712	  23797	 179071	  2bb7f	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_JN5169_DR1175.elf
+Thu Sep 20 16:23:40 2018
+   text	   data	    bss	    dec	    hex	filename
+ 151722	   1640	  23277	 176639	  2b1ff	../../OccupancySensor/Build/OccupancySensor_NtagIcode_JN5169_DR1199.elf
+Thu Sep 20 16:29:13 2018
+   text	   data	    bss	    dec	    hex	filename
+ 151794	   1616	  23285	 176695	  2b237	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5169_DR1175.elf
+Thu Sep 20 16:33:02 2018
+   text	   data	    bss	    dec	    hex	filename
+ 153558	   1712	  23797	 179067	  2bb7b	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5169_DR1175.elf
+Thu Sep 20 16:35:46 2018
+   text	   data	    bss	    dec	    hex	filename
+ 151722	   1640	  23277	 176639	  2b1ff	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5169_DR1199.elf
+Thu Sep 20 16:44:06 2018
+   text	   data	    bss	    dec	    hex	filename
+ 148364	   2008	  23289	 173661	  2a65d	../../LightSensor/Build/LightSensor_NtagIcode_JN5179_DR1175.elf
+Thu Sep 20 16:50:03 2018
+   text	   data	    bss	    dec	    hex	filename
+ 150072	   2104	  23793	 175969	  2af61	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_JN5179_DR1175.elf
+Thu Sep 20 16:53:26 2018
+   text	   data	    bss	    dec	    hex	filename
+ 148408	   2012	  23301	 173721	  2a699	../../OccupancySensor/Build/OccupancySensor_NtagIcode_JN5179_DR1199.elf
+Thu Sep 20 16:56:59 2018
+   text	   data	    bss	    dec	    hex	filename
+ 148368	   2012	  23289	 173669	  2a665	../../LightSensor/Build/LightSensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Sep 20 16:59:37 2018
+   text	   data	    bss	    dec	    hex	filename
+ 150076	   2108	  23793	 175977	  2af69	../../LightTemperatureOccupancySensor/Build/LightTemperatureOccupancySensor_NtagIcode_Ota_JN5179_DR1175.elf
+Thu Sep 20 17:04:06 2018
+   text	   data	    bss	    dec	    hex	filename
+ 148412	   2016	  23301	 173729	  2a6a1	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu Sep 20 17:13:13 2018
+   text	   data	    bss	    dec	    hex	filename
+ 161384	   2148	  24033	 187565	  2dcad	../../OccupancySensor/Build/OccupancySensor_NtagIcode_Ota_JN5179_DR1199.elf
+Thu May 30 01:00:09 2019
+   text	   data	    bss	    dec	    hex	filename
+ 148442	   1624	  22709	 172775	  2a2e7	../../OccupancySensor/Build/OccupancySensor_JN5169_DR1199.elf
+Thu May 30 01:15:48 2019
+   text	   data	    bss	    dec	    hex	filename
+ 148214	   1624	  22693	 172531	  2a1f3	../../OccupancySensor/Build/OccupancySensor_JN5169_DR1199.elf
+Thu May 30 01:19:23 2019
+   text	   data	    bss	    dec	    hex	filename
+ 148142	   1624	  22693	 172459	  2a1ab	../../OccupancySensor/Build/OccupancySensor_JN5169_DR1199.elf
+Thu May 30 01:29:46 2019
+   text	   data	    bss	    dec	    hex	filename
+ 148142	   1624	  22693	 172459	  2a1ab	../../OccupancySensor/Build/OccupancySensor_JN5169_DR1199.elf
+Thu May 30 14:06:21 2019
+   text	   data	    bss	    dec	    hex	filename
+ 146864	   1616	  22429	 170909	  29b9d	../../OccupancySensor/Build/OccupancySensor_JN5169_DR1199.elf
+Thu May 30 14:13:54 2019
+   text	   data	    bss	    dec	    hex	filename
+ 146852	   1616	  22429	 170897	  29b91	../../OccupancySensor/Build/OccupancySensor_JN5169_DR1199.elf
+Thu May 30 14:44:22 2019
+   text	   data	    bss	    dec	    hex	filename
+ 145408	   1588	  22393	 169389	  295ad	../../OccupancySensor/Build/OccupancySensor_JN5169_DR1199.elf
+Thu May 30 14:56:30 2019
+   text	   data	    bss	    dec	    hex	filename
+ 145428	   1588	  22393	 169409	  295c1	../../OccupancySensor/Build/OccupancySensor_JN5169_DR1199.elf
+Thu May 30 15:12:19 2019
+   text	   data	    bss	    dec	    hex	filename
+ 145596	   1588	  22409	 169593	  29679	../../OccupancySensor/Build/OccupancySensor_JN5169_DR1199.elf
+Thu May 30 15:14:24 2019
+   text	   data	    bss	    dec	    hex	filename
+ 145604	   1588	  22409	 169601	  29681	../../OccupancySensor/Build/OccupancySensor_JN5169_DR1199.elf
+Thu May 30 15:15:16 2019
+   text	   data	    bss	    dec	    hex	filename
+ 145612	   1588	  22409	 169609	  29689	../../OccupancySensor/Build/OccupancySensor_JN5169_DR1199.elf
+Thu May 30 15:20:37 2019
+   text	   data	    bss	    dec	    hex	filename
+ 145656	   1588	  22409	 169653	  296b5	../../OccupancySensor/Build/OccupancySensor_JN5169_DR1199.elf
+Sat Jun 08 19:44:20 2019
+   text	   data	    bss	    dec	    hex	filename
+ 145656	   1588	  22409	 169653	  296b5	../../OccupancySensor/Build/OccupancySensor_JN5169_DR1199.elf
+Sat Jun 08 20:51:30 2019
+   text	   data	    bss	    dec	    hex	filename
+ 145204	   1588	  22409	 169201	  294f1	../../OccupancySensor/Build/OccupancySensor_JN5169_DR1199.elf
+Sat Jun 08 21:33:58 2019
+   text	   data	    bss	    dec	    hex	filename
+ 145184	   1588	  22409	 169181	  294dd	../../OccupancySensor/Build/OccupancySensor_JN5169_DR1199.elf

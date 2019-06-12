@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440" moduleId="org.eclipse.cdt.core.settings" name="LightSensor, JN5169, DR1175">
+				<macros>
+					<stringMacro name="APP_NTAG_ICODE" type="VALUE_TEXT" value="0"/>
+				</macros>
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="JN-AN-1220-Zigbee-3-0-Sensors" buildProperties="" description="" id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440" name="LightSensor, JN5169, DR1175" parent="org.eclipse.cdt.build.core.emptycfg">
+					<folderInfo id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440." name="/" resourcePath="">
+						<toolChain id="com.beyondsemi.toolchain.gnu.ba.elf.base.1499118829" name="com.beyondsemi.toolchain.gnu.ba.elf.base" superClass="com.beyondsemi.toolchain.gnu.ba.elf.base">
+							<targetPlatform binaryParser="org.eclipse.cdt.core.ELF" id="com.beyondsemi.target.gnu.platform.ba.elf.5849482" superClass="com.beyondsemi.target.gnu.platform.ba.elf"/>
+							<builder arguments="JENNIC_CHIP=JN5169 JENNIC_CHIP_FAMILY=JN516x SENSOR=LightSensor KEEPALIVETIME=255 DR=DR1175" buildPath="${ProjDirPath}/../LightSensor/Build" command="make" id="com.beyondsemi.builder.cdt.gnu.2010640605" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Gnu Make Builder" superClass="com.beyondsemi.builder.cdt.gnu"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.compiler.c.base.1188089191" name="BA ELF GNU C compiler" superClass="com.beyondsemi.tool.gnu.ba.elf.compiler.c.base">
+								<inputType id="com.beyondsemi.base.ba.elf.c.compiler.input.638782843" superClass="com.beyondsemi.base.ba.elf.c.compiler.input"/>
+								<inputType id="com.beyondsemi.assembler.macro.input.1062209233" superClass="com.beyondsemi.assembler.macro.input"/>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.compiler.cpp.base.1276721927" name="BA ELF GNU C++ compiler" superClass="com.beyondsemi.tool.gnu.ba.elf.compiler.cpp.base">
+								<inputType id="com.beyondsemi.base.ba.elf.cpp.compiler.input.2064997271" superClass="com.beyondsemi.base.ba.elf.cpp.compiler.input"/>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.linker.c.base.1187207074" name="BA ELF GNU C linker" superClass="com.beyondsemi.tool.gnu.ba.elf.linker.c.base"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.linker.cpp.base.654974532" name="BA ELF GNU C++ linker" superClass="com.beyondsemi.tool.gnu.ba.elf.linker.cpp.base">
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.1641573454" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.assembler.base.150195650" name="BA ELF GNU assembler" superClass="com.beyondsemi.tool.gnu.ba.elf.assembler.base">
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.1817012682" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+								<inputType id="com.beyondsemi.assembler.input.1173654911" superClass="com.beyondsemi.assembler.input"/>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.archiver.base.221151577" name="BA ELF GNU archiver" superClass="com.beyondsemi.tool.gnu.ba.elf.archiver.base"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.size.base.1252748933" name="BA ELF GNU size" superClass="com.beyondsemi.tool.gnu.ba.elf.size.base"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.objcopy.base.929840370" name="BA ELF GNU objcopy" superClass="com.beyondsemi.tool.gnu.ba.elf.objcopy.base"/>
+						</toolChain>
+					</folderInfo>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+		<cconfiguration id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.943136905">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.943136905" moduleId="org.eclipse.cdt.core.settings" name="LightTemperatureOccupancySensor, JN5169, DR1175">
+				<macros>
+					<stringMacro name="APP_NTAG_ICODE" type="VALUE_TEXT" value="0"/>
+				</macros>
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="JN-AN-1220-Zigbee-3-0-Sensors" buildProperties="" description="" id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.943136905" name="LightTemperatureOccupancySensor, JN5169, DR1175" parent="org.eclipse.cdt.build.core.emptycfg">
+					<folderInfo id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.943136905." name="/" resourcePath="">
+						<toolChain id="com.beyondsemi.toolchain.gnu.ba.elf.base.1875376996" name="com.beyondsemi.toolchain.gnu.ba.elf.base" superClass="com.beyondsemi.toolchain.gnu.ba.elf.base">
+							<targetPlatform binaryParser="org.eclipse.cdt.core.ELF" id="com.beyondsemi.target.gnu.platform.ba.elf.2029858669" superClass="com.beyondsemi.target.gnu.platform.ba.elf"/>
+							<builder arguments="JENNIC_CHIP=JN5169 JENNIC_CHIP_FAMILY=JN516x SENSOR=LightTemperatureOccupancySensor KEEPALIVETIME=255 DR=DR1175" buildPath="${ProjDirPath}/../LightTemperatureOccupancySensor/Build" command="make" id="com.beyondsemi.builder.cdt.gnu.854867856" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Gnu Make Builder" superClass="com.beyondsemi.builder.cdt.gnu"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.compiler.c.base.421313210" name="BA ELF GNU C compiler" superClass="com.beyondsemi.tool.gnu.ba.elf.compiler.c.base">
+								<inputType id="com.beyondsemi.base.ba.elf.c.compiler.input.1695451912" superClass="com.beyondsemi.base.ba.elf.c.compiler.input"/>
+								<inputType id="com.beyondsemi.assembler.macro.input.1625922792" superClass="com.beyondsemi.assembler.macro.input"/>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.compiler.cpp.base.608578099" name="BA ELF GNU C++ compiler" superClass="com.beyondsemi.tool.gnu.ba.elf.compiler.cpp.base">
+								<inputType id="com.beyondsemi.base.ba.elf.cpp.compiler.input.573087201" superClass="com.beyondsemi.base.ba.elf.cpp.compiler.input"/>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.linker.c.base.1411127564" name="BA ELF GNU C linker" superClass="com.beyondsemi.tool.gnu.ba.elf.linker.c.base"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.linker.cpp.base.509644376" name="BA ELF GNU C++ linker" superClass="com.beyondsemi.tool.gnu.ba.elf.linker.cpp.base">
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.1378720332" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.assembler.base.2076024935" name="BA ELF GNU assembler" superClass="com.beyondsemi.tool.gnu.ba.elf.assembler.base">
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.689750533" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+								<inputType id="com.beyondsemi.assembler.input.616322695" superClass="com.beyondsemi.assembler.input"/>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.archiver.base.857903372" name="BA ELF GNU archiver" superClass="com.beyondsemi.tool.gnu.ba.elf.archiver.base"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.size.base.1933953381" name="BA ELF GNU size" superClass="com.beyondsemi.tool.gnu.ba.elf.size.base"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.objcopy.base.261572751" name="BA ELF GNU objcopy" superClass="com.beyondsemi.tool.gnu.ba.elf.objcopy.base"/>
+						</toolChain>
+					</folderInfo>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+		<cconfiguration id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.1912597290">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.1912597290" moduleId="org.eclipse.cdt.core.settings" name="OccupancySensor, JN5179, DR1199">
+				<macros>
+					<stringMacro name="APP_NTAG_ICODE" type="VALUE_TEXT" value="0"/>
+				</macros>
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="JN-AN-1220-Zigbee-3-0-Sensors" buildProperties="" description="" id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.1912597290" name="OccupancySensor, JN5179, DR1199" parent="org.eclipse.cdt.build.core.emptycfg">
+					<folderInfo id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.1912597290." name="/" resourcePath="">
+						<toolChain id="com.beyondsemi.toolchain.gnu.ba.elf.base.932406209" name="BA ELF GNU toolchain" superClass="com.beyondsemi.toolchain.gnu.ba.elf.base">
+							<targetPlatform binaryParser="org.eclipse.cdt.core.ELF" id="com.beyondsemi.target.gnu.platform.ba.elf.1145490445" superClass="com.beyondsemi.target.gnu.platform.ba.elf"/>
+							<builder arguments="JENNIC_CHIP=JN5169 JENNIC_CHIP_FAMILY=JN516x SENSOR=OccupancySensor KEEPALIVETIME=255 DR=DR1199" buildPath="${ProjDirPath}/OccupancySensor/Build" command="make" id="com.beyondsemi.builder.cdt.gnu.1430185792" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Gnu Make Builder" superClass="com.beyondsemi.builder.cdt.gnu"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.compiler.c.base.3221697" name="BA ELF GNU C compiler" superClass="com.beyondsemi.tool.gnu.ba.elf.compiler.c.base">
+								<inputType id="com.beyondsemi.base.ba.elf.c.compiler.input.1121243190" superClass="com.beyondsemi.base.ba.elf.c.compiler.input"/>
+								<inputType id="com.beyondsemi.assembler.macro.input.467135224" superClass="com.beyondsemi.assembler.macro.input"/>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.compiler.cpp.base.1203456794" name="BA ELF GNU C++ compiler" superClass="com.beyondsemi.tool.gnu.ba.elf.compiler.cpp.base">
+								<inputType id="com.beyondsemi.base.ba.elf.cpp.compiler.input.358214448" superClass="com.beyondsemi.base.ba.elf.cpp.compiler.input"/>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.linker.c.base.1913599487" name="BA ELF GNU C linker" superClass="com.beyondsemi.tool.gnu.ba.elf.linker.c.base"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.linker.cpp.base.249119257" name="BA ELF GNU C++ linker" superClass="com.beyondsemi.tool.gnu.ba.elf.linker.cpp.base">
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.217777901" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.assembler.base.605828712" name="BA ELF GNU assembler" superClass="com.beyondsemi.tool.gnu.ba.elf.assembler.base">
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.1315360610" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+								<inputType id="com.beyondsemi.assembler.input.1945377803" superClass="com.beyondsemi.assembler.input"/>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.archiver.base.128468219" name="BA ELF GNU archiver" superClass="com.beyondsemi.tool.gnu.ba.elf.archiver.base"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.size.base.1944633066" name="BA ELF GNU size" superClass="com.beyondsemi.tool.gnu.ba.elf.size.base"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.objcopy.base.1700692777" name="BA ELF GNU objcopy" superClass="com.beyondsemi.tool.gnu.ba.elf.objcopy.base"/>
+						</toolChain>
+					</folderInfo>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+		<cconfiguration id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.2029387667">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.2029387667" moduleId="org.eclipse.cdt.core.settings" name="LightSensor, Ota, JN5169, DR175">
+				<macros>
+					<stringMacro name="APP_NTAG_ICODE" type="VALUE_TEXT" value="0"/>
+				</macros>
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="JN-AN-1220-Zigbee-3-0-Sensors" buildProperties="" description="" id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.2029387667" name="LightSensor, Ota, JN5169, DR175" parent="org.eclipse.cdt.build.core.emptycfg">
+					<folderInfo id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.2029387667." name="/" resourcePath="">
+						<toolChain id="com.beyondsemi.toolchain.gnu.ba.elf.base.243061215" name="com.beyondsemi.toolchain.gnu.ba.elf.base" superClass="com.beyondsemi.toolchain.gnu.ba.elf.base">
+							<targetPlatform binaryParser="org.eclipse.cdt.core.ELF" id="com.beyondsemi.target.gnu.platform.ba.elf.1392799473" superClass="com.beyondsemi.target.gnu.platform.ba.elf"/>
+							<builder arguments="JENNIC_CHIP=JN5169 JENNIC_CHIP_FAMILY=JN516x SENSOR=LightSensor KEEPALIVETIME=255 DR=DR1175 OTA=1" buildPath="${ProjDirPath}/../LightSensor/Build" command="make" id="com.beyondsemi.builder.cdt.gnu.911214793" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Gnu Make Builder" superClass="com.beyondsemi.builder.cdt.gnu"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.compiler.c.base.1283551866" name="BA ELF GNU C compiler" superClass="com.beyondsemi.tool.gnu.ba.elf.compiler.c.base">
+								<inputType id="com.beyondsemi.base.ba.elf.c.compiler.input.1081675842" superClass="com.beyondsemi.base.ba.elf.c.compiler.input"/>
+								<inputType id="com.beyondsemi.assembler.macro.input.2137179062" superClass="com.beyondsemi.assembler.macro.input"/>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.compiler.cpp.base.2001381051" name="BA ELF GNU C++ compiler" superClass="com.beyondsemi.tool.gnu.ba.elf.compiler.cpp.base">
+								<inputType id="com.beyondsemi.base.ba.elf.cpp.compiler.input.932592797" superClass="com.beyondsemi.base.ba.elf.cpp.compiler.input"/>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.linker.c.base.1342376751" name="BA ELF GNU C linker" superClass="com.beyondsemi.tool.gnu.ba.elf.linker.c.base"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.linker.cpp.base.281811257" name="BA ELF GNU C++ linker" superClass="com.beyondsemi.tool.gnu.ba.elf.linker.cpp.base">
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.1628529289" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.assembler.base.1464776219" name="BA ELF GNU assembler" superClass="com.beyondsemi.tool.gnu.ba.elf.assembler.base">
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.1395111473" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+								<inputType id="com.beyondsemi.assembler.input.1068535220" superClass="com.beyondsemi.assembler.input"/>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.archiver.base.1584655153" name="BA ELF GNU archiver" superClass="com.beyondsemi.tool.gnu.ba.elf.archiver.base"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.size.base.1164669283" name="BA ELF GNU size" superClass="com.beyondsemi.tool.gnu.ba.elf.size.base"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.objcopy.base.1473063514" name="BA ELF GNU objcopy" superClass="com.beyondsemi.tool.gnu.ba.elf.objcopy.base"/>
+						</toolChain>
+					</folderInfo>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+		<cconfiguration id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.943136905.359973444">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.943136905.359973444" moduleId="org.eclipse.cdt.core.settings" name="LightTemperatureOccupancySensor, Ota, JN5169, DR1175">
+				<macros>
+					<stringMacro name="APP_NTAG_ICODE" type="VALUE_TEXT" value="0"/>
+				</macros>
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="JN-AN-1220-Zigbee-3-0-Sensors" buildProperties="" description="" id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.943136905.359973444" name="LightTemperatureOccupancySensor, Ota, JN5169, DR1175" parent="org.eclipse.cdt.build.core.emptycfg">
+					<folderInfo id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.943136905.359973444." name="/" resourcePath="">
+						<toolChain id="com.beyondsemi.toolchain.gnu.ba.elf.base.431876581" name="com.beyondsemi.toolchain.gnu.ba.elf.base" superClass="com.beyondsemi.toolchain.gnu.ba.elf.base">
+							<targetPlatform binaryParser="org.eclipse.cdt.core.ELF" id="com.beyondsemi.target.gnu.platform.ba.elf.11198120" superClass="com.beyondsemi.target.gnu.platform.ba.elf"/>
+							<builder arguments="JENNIC_CHIP=JN5169 JENNIC_CHIP_FAMILY=JN516x SENSOR=LightTemperatureOccupancySensor KEEPALIVETIME=255 DR=DR1175  OTA=1" buildPath="${ProjDirPath}/../LightTemperatureOccupancySensor/Build" command="make" id="com.beyondsemi.builder.cdt.gnu.1283356190" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Gnu Make Builder" superClass="com.beyondsemi.builder.cdt.gnu"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.compiler.c.base.937989944" name="BA ELF GNU C compiler" superClass="com.beyondsemi.tool.gnu.ba.elf.compiler.c.base">
+								<inputType id="com.beyondsemi.base.ba.elf.c.compiler.input.1027350986" superClass="com.beyondsemi.base.ba.elf.c.compiler.input"/>
+								<inputType id="com.beyondsemi.assembler.macro.input.1357111435" superClass="com.beyondsemi.assembler.macro.input"/>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.compiler.cpp.base.511494989" name="BA ELF GNU C++ compiler" superClass="com.beyondsemi.tool.gnu.ba.elf.compiler.cpp.base">
+								<inputType id="com.beyondsemi.base.ba.elf.cpp.compiler.input.216820702" superClass="com.beyondsemi.base.ba.elf.cpp.compiler.input"/>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.linker.c.base.1961217868" name="BA ELF GNU C linker" superClass="com.beyondsemi.tool.gnu.ba.elf.linker.c.base"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.linker.cpp.base.1142848991" name="BA ELF GNU C++ linker" superClass="com.beyondsemi.tool.gnu.ba.elf.linker.cpp.base">
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.276726030" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.assembler.base.1531206913" name="BA ELF GNU assembler" superClass="com.beyondsemi.tool.gnu.ba.elf.assembler.base">
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.1151809459" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+								<inputType id="com.beyondsemi.assembler.input.1435613164" superClass="com.beyondsemi.assembler.input"/>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.archiver.base.1492742775" name="BA ELF GNU archiver" superClass="com.beyondsemi.tool.gnu.ba.elf.archiver.base"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.size.base.1360502342" name="BA ELF GNU size" superClass="com.beyondsemi.tool.gnu.ba.elf.size.base"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.objcopy.base.1464125017" name="BA ELF GNU objcopy" superClass="com.beyondsemi.tool.gnu.ba.elf.objcopy.base"/>
+						</toolChain>
+					</folderInfo>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+		<cconfiguration id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.1912597290.1675749837">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.1912597290.1675749837" moduleId="org.eclipse.cdt.core.settings" name="OccupancySensor, Ota, JN5169, DR1199">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="JN-AN-1220-Zigbee-3-0-Sensors" buildProperties="" description="" id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.1912597290.1675749837" name="OccupancySensor, Ota, JN5169, DR1199" parent="org.eclipse.cdt.build.core.emptycfg">
+					<folderInfo id="com.beyondsemi.toolchain.gnu.ba.elf.base.420991887.163209440.1912597290.1675749837." name="/" resourcePath="">
+						<toolChain id="com.beyondsemi.toolchain.gnu.ba.elf.base.582355330" name="BA ELF GNU toolchain" superClass="com.beyondsemi.toolchain.gnu.ba.elf.base">
+							<targetPlatform binaryParser="org.eclipse.cdt.core.ELF" id="com.beyondsemi.target.gnu.platform.ba.elf.1902523672" superClass="com.beyondsemi.target.gnu.platform.ba.elf"/>
+							<builder arguments="JENNIC_CHIP=JN5169 JENNIC_CHIP_FAMILY=JN516x SENSOR=OccupancySensor KEEPALIVETIME=255 DR=DR1199  OTA=0 OTA_ENCRYPTED=0 APP_NTAG_ICODE=0 APP_NTAG_AES=0" buildPath="${ProjDirPath}/OccupancySensor/Build" command="make" id="com.beyondsemi.builder.cdt.gnu.1040994884" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Gnu Make Builder" superClass="com.beyondsemi.builder.cdt.gnu"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.compiler.c.base.1006723598" name="BA ELF GNU C compiler" superClass="com.beyondsemi.tool.gnu.ba.elf.compiler.c.base">
+								<inputType id="com.beyondsemi.base.ba.elf.c.compiler.input.1744080796" superClass="com.beyondsemi.base.ba.elf.c.compiler.input"/>
+								<inputType id="com.beyondsemi.assembler.macro.input.56026027" superClass="com.beyondsemi.assembler.macro.input"/>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.compiler.cpp.base.93264045" name="BA ELF GNU C++ compiler" superClass="com.beyondsemi.tool.gnu.ba.elf.compiler.cpp.base">
+								<inputType id="com.beyondsemi.base.ba.elf.cpp.compiler.input.641816808" superClass="com.beyondsemi.base.ba.elf.cpp.compiler.input"/>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.linker.c.base.1232095911" name="BA ELF GNU C linker" superClass="com.beyondsemi.tool.gnu.ba.elf.linker.c.base"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.linker.cpp.base.498759085" name="BA ELF GNU C++ linker" superClass="com.beyondsemi.tool.gnu.ba.elf.linker.cpp.base">
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.906874974" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.assembler.base.1269828201" name="BA ELF GNU assembler" superClass="com.beyondsemi.tool.gnu.ba.elf.assembler.base">
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.2040840653" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+								<inputType id="com.beyondsemi.assembler.input.1924305844" superClass="com.beyondsemi.assembler.input"/>
+							</tool>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.archiver.base.704919369" name="BA ELF GNU archiver" superClass="com.beyondsemi.tool.gnu.ba.elf.archiver.base"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.size.base.1365365346" name="BA ELF GNU size" superClass="com.beyondsemi.tool.gnu.ba.elf.size.base"/>
+							<tool id="com.beyondsemi.tool.gnu.ba.elf.objcopy.base.968398572" name="BA ELF GNU objcopy" superClass="com.beyondsemi.tool.gnu.ba.elf.objcopy.base"/>
+						</toolChain>
+					</folderInfo>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="JN-AN-1220-Zigbee-3-0-Sensors.null.213358639" name="JN-AN-1220-Zigbee-3-0-Sensors"/>
+	</storageModule>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+	<storageModule moduleId="refreshScope" versionNumber="2">
+		<configuration configurationName="Default">
+			<resource resourceType="PROJECT" workspacePath="/JN-AN-1220-Zigbee-3-0-Sensors"/>
+		</configuration>
+		<configuration configurationName="LightSensor, JN5169, DR1175"/>
+		<configuration configurationName="OccupancySensor, Ota, JN5169, DR1199"/>
+		<configuration configurationName="LightSensor, Ota, JN5169, DR175"/>
+		<configuration configurationName="OccupancySensor">
+			<resource resourceType="PROJECT" workspacePath="/JN-AN-1220-Zigbee-3-0-Sensors"/>
+		</configuration>
+		<configuration configurationName="LightTemperatureOccupancySensor, JN5169, DR1175"/>
+		<configuration configurationName="LightSensor">
+			<resource resourceType="PROJECT" workspacePath="/JN-AN-1220-Zigbee-3-0-Sensors"/>
+		</configuration>
+		<configuration configurationName="OccupancySensor, JN5179, DR1199"/>
+		<configuration configurationName="LightTemperatureOccupancySensor"/>
+		<configuration configurationName="LightTemperatureOccupancySensor, Ota, JN5169, DR1175"/>
+	</storageModule>
+</cproject>
